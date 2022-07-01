@@ -77,6 +77,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### ✍️ Blog Posts :
 
+- Still looking for a topic 😅
 -
 -
-- <!-- BLOG-POST-LIST:END -->
