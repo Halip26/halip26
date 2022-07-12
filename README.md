@@ -76,7 +76,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### ✍️ Blog Posts :
-
-- Still looking for a topic 😅
+<!-- BLOG-POST-LIST:START -->
+- [10 VS Code Extensions to increase productivity for Web Developers](https://halip26.hashnode.dev/10-vs-code-extensions-to-increase-productivity-for-web-developers)
 -
 -
+<!-- BLOG-POST-LIST:END -->
