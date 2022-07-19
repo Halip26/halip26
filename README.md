@@ -69,7 +69,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halip26&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-![Halip26's GitHub stats](https://github-readme-stats.vercel.app/api?username=halip26&show_icons=true&theme=vision-friendly-dark)]
+![Halip26's GitHub stats](https://github-readme-stats.vercel.app/api?username=halip26&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halip26&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
