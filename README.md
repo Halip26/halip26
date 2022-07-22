@@ -1,4 +1,4 @@
-### Halo, I'm <a href="https://halip26.github.io/index.html/" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I'm a Front-End Developer with passion and a Freelancer now living in Makassar, Indonesia.
+### Halo, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I'm a Front-End Developer with passion and a Freelancer now living in Makassar, Indonesia.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/halip26?style=social)](https://twitter.com/Halip26)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halipuddin/)
