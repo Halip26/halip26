@@ -79,5 +79,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!-- BLOG-POST-LIST:START -->
 - [10 VS Code Extensions to increase productivity for Web Developers](https://halip26.hashnode.dev/10-vs-code-extensions-to-increase-productivity-for-web-developers)
 - [Node.js vs PHP: Which is the Top Server-Side Programming Language?](https://halip26.hashnode.dev/nodejs-vs-php-which-is-the-top-server-side-programming-language)
--
+- [Project Simple ETL with Pandas](https://blog-halip26.vercel.app/post/project-simple-etl-with-pandas)
+- 
 <!-- BLOG-POST-LIST:END -->
