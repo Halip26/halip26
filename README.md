@@ -1,12 +1,12 @@
-### Halo, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I'm a Front-End Developer with passion and a Freelancer now living in Makassar, Indonesia.
+### Halo, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Front-End Developer, a Coding Educator with passion and a Freelancer now living in Makassar, Indonesia
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/halip26?style=social)](https://twitter.com/Halip26)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halipuddin/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://halip26.medium.com/)
 
 <p align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/> 
-<img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="150"/> 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="150"/>
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="150"/>
 </p>
 
@@ -18,20 +18,21 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width:100%"/></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me
 
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Makassar, Indonesia.
 
 - 🔭 I’m working as a Front-End Developer and contributing to frontend and sometimes backend for building web applications.
+- 👨‍💻 I'm also woking as a Coding Educator at [BrightChamps](https://pages.brightchamps.com/about)
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles and sometimes playing game 👾🎮.
+- ⚡ In my free time I solve problems on GeeksforGeeks, Stack Overflow and read tech articles and sometimes playing game 👾🎮.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Halipuddin%20Hambali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halipuddin/)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools
 
-<p> 
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -65,7 +66,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halip26&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
@@ -75,10 +76,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### ✍️ Blog Posts :
+### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [10 VS Code Extensions to increase productivity for Web Developers](https://halip26.hashnode.dev/10-vs-code-extensions-to-increase-productivity-for-web-developers)
 - [Node.js vs PHP: Which is the Top Server-Side Programming Language?](https://halip26.hashnode.dev/nodejs-vs-php-which-is-the-top-server-side-programming-language)
 - [Project Simple ETL with Pandas](https://blog-halip26.thedev.id/post/project-simple-etl-with-pandas)
-- 
+- [Algoritma Kehidupan](https://blog-halip26.thedev.id/post/algoritma-kehidupan)
 <!-- BLOG-POST-LIST:END -->
