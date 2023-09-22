@@ -1,4 +1,4 @@
-### Halo, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Front-End Developer, a Coding Educator with passion and a Freelancer now living in Makassar, Indonesia
+### Hi, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a front-end developer, coding educator, and freelancer now living in Makassar, Indonesia
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/halip26?style=social)](https://twitter.com/Halip26)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halipuddin/)
@@ -12,7 +12,7 @@
 
 <br>
 
-**<h1 align="center">Hey there <img src="https://komarev.com/ghpvc/?username=halip26&style=flat-square&color=blue" alt="profil_views"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Senang bertemu Anda! </h1>**
+**<h1 align="center">Hey there <img src="https://komarev.com/ghpvc/?username=halip26&style=flat-square&color=blue" alt="profil_views"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Terima kasih telah berkunjung! </h1>**
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ### :man_technologist: &nbsp;About Me
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Makassar, Indonesia.
+I'm a front-end developer, coding educator, and freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Makassar, Indonesia.
 
 - 🔭 I’m working as a Front-End Developer and contributing to frontend and sometimes backend for building web applications.
 - 👨‍💻 I'm also woking as a Coding Educator at [BrightChamps](https://pages.brightchamps.com/about)
