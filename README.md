@@ -61,7 +61,7 @@ I'm a front-end developer, coding educator, and freelancer <img src="https://med
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="AdobeIllustrator" alt="AdobeIllustrator" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="AdobePhotoshop" alt="AdobePhotoshop" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 </p>
 
 ---
