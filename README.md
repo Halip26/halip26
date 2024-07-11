@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=1565C0&random=false&width=550&lines=Welcome+to+Halip's+Github+Page!;I'm+a+Front-end+Web+Developer%2C;Coding+Educator%2C+and+Freelancer.;I+am+currently+learning+about+AI%2FML.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=1565C0&random=false&width=550&lines=Welcome+to+Halip's+Github+Page!;I'm+a+Front-end+Web+Developer%2C;Coding+Educator+and+Freelancer.;I+am+currently+learning+about+AI%2FML.)](https://git.io/typing-svg)
 
 ### Hi, I'm <a href="https://halip26.github.io" target="_blank">Halipuddin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a front-end developer, coding educator, and freelancer now living in Makassar, Indonesia
 
